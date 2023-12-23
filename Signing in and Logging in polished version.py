@@ -1,5 +1,5 @@
-# This is a trial of my skills and what I've learnt so far with Mosh
-# I have no idea how to generate GUI's yet but this will have to do f
+# This is a trial of my skills and what I've learnt so for now
+# I have no idea how to generate GUI's yet but this will have to do for
 print('WELCOME TO MY SITE')
 print('PLEASE SIGN UP TO CONTINUE')
 acc_name = var1 = input('Name: ')
